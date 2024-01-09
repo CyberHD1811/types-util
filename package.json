@@ -1,0 +1,42 @@
+{
+    "name": "util-types",
+    "version": "1.0.0",
+    "private": false,
+    "license": "MIT",
+    "description": "A package with some typescript utility types.",
+    "keywords": [
+        "typescript",
+        "types",
+        "util"
+    ],
+    "homepage": "https://github.com/CyberHD1811/util-types",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/CyberHD1811/util-types"
+    },
+    "bugs": {
+        "url": "https://github.com/CyberHD1811/util-types/issues"
+    },
+    "author": {
+        "name": "CyberHD1811",
+        "url": "https://github.com/CyberHD1811"
+    },
+    "dependencies": {
+        "@types/node": "20.10.7"
+    },
+    "prettier": {
+        "arrowParens": "always",
+        "embeddedLanguageFormatting": "auto",
+        "endOfLine": "lf",
+        "overrides": [],
+        "parser": "",
+        "plugins": [],
+        "printWidth": 70,
+        "quoteProps": "as-needed",
+        "semi": true,
+        "singleQuote": true,
+        "tabWidth": 4,
+        "trailingComma": "all",
+        "useTabs": false
+    }
+}
